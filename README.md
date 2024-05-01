@@ -16,7 +16,7 @@ Run `npm run init` to initialise the database, then `npm run dev` to run the que
 The output will look something like this:
 
 > Searching for similar headlines to: extended computer use linked to back problems in recent study
-``` json
+```javascript
 [
   {
     headline: '10 Ways To Alleviate Tech Neck, According To Experts',
